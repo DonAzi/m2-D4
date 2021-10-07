@@ -1,0 +1,19 @@
+body {
+  background-color: #0f171e;
+}
+
+.nav-brand {
+  width: 100px;
+  position: relative;
+  margin: 2px;
+}
+.image {
+  width: 32px;
+  font-weight: 100;
+}
+.carousel-inner1 {
+  max-height: 50%;
+}
+img {
+  vertical-align: middle;
+}
