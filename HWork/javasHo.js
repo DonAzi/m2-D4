@@ -1,10 +1,43 @@
-let addedNames = []
+    let addedNames = []
 
-let numberOfTeams = 0
+    let numberOfTeams = 0
 
 const addedNames = function(){
     let inNames = document.getElementById('names')
     addedNames.push(inNames.value)
+ console.log(addedNames)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 }
   /*
    const addNameToList = function () {
